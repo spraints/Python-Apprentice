@@ -1,5 +1,5 @@
 """
-For this program, you will tell Tina the Turtle to draw 
+For this program, you will tell Tina the TRIANGLE to draw 
 a triangle.
 
 You should look at the previous program, 02_Meet_Tina.py
@@ -19,5 +19,9 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 # tina.pencolor()
 
 ... # Your code here
+tina.forward(100)
+tina.pencolor("blue")
+tina.left(10)
+tina.up(10)
 
 turtle.exitonclick()                    # Close the window when we click on it
