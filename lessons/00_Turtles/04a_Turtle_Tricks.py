@@ -1,5 +1,5 @@
 """
-For this program, you will tell Tina the Turtle to draw 
+For this program, you will tell Tina the TRIANGLE to draw 
 a triangle.
 
 You should look at the previous program, 02_Meet_Tina.py
@@ -19,6 +19,7 @@ tina.shape('triangle')
 # tina.pencolor()
 
 ... # Your code here
+
 tina.forward(40)
 tina.left(360/3)
 tina.forward(40)
